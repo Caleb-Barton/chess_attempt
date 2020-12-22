@@ -269,7 +269,6 @@ table, th, td {
     <body>
         <div class=header>
             <div>
-		<img src=nikkilogo2.png alt="Logo" id="logo">
 		</div>
             <div id="navcontainer">
                 <ul>
