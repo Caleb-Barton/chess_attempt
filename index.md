@@ -1,5 +1,3 @@
-<!DOCTYPE html>
-
 <html lang="en">
 
 
@@ -12,7 +10,9 @@
     
     <body>
         <div class=header>
-            <div><img src=nikkilogo2.png alt="Logo" id="logo"></div>
+            <div>
+		<img src=nikkilogo2.png alt="Logo" id="logo">
+		</div>
             <div id="navcontainer">
                 <ul>
                         <li><a href="tips.html">Tech Tips</a></li>
